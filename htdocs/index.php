@@ -4,7 +4,7 @@
 <b>
 <?php
 $host=gethostname();
-echo "Container Name : ";
+echo "pod name : ";
 echo $host;
 ?>
 <p> Image Version : original </p>

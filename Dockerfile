@@ -1,5 +1,5 @@
 FROM php:7.2-apache
-MAINTAINER chhanz <han0495@gmail.com>
+MAINTAINER chhan <cheolhee.han@ibm.com>
 
 ADD htdocs/index.php /var/www/html/index.php
 
