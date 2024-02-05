@@ -3,4 +3,4 @@ MAINTAINER chhan <cheolhee.han@ibm.com>
 
 ADD index.php /var/www/html/index.php
 
-EXPOSE 80 
+EXPOSE 8080
